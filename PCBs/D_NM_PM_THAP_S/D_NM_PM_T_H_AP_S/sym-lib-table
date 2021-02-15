@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Teensy)(type Legacy)(uri "${KIPRJMOD}/Teensy KiCad/teensy.lib")(options "")(descr ""))
+  (lib (name NodeMCU)(type Legacy)(uri ${KIPRJMOD}/kicad-NodeMCU-master/nodemcu.lib)(options "")(descr ""))
+  (lib (name NodeMCUv1)(type Legacy)(uri ${KIPRJMOD}/kicad-ESP8266-master/ESP8266.lib)(options "")(descr ""))
+)
